@@ -11,7 +11,7 @@ CTBot myBot;
 //Definicoes da rede wifi e conexao
 String ssid  = "ALHN-ABC1"; //Nome da sua rede wifi
 String pass  = "5317925704"; //Senha da sua rede wifi
-String token = "5172540697:AAHXuQ--IAZkhAcAjyXR6rSxkyJtQUYxOKY"; //Token bot Telegram
+String token = ""; //Token bot Telegram
 
 //Pinos dos componentes
 uint8_t rele1 = 16;
